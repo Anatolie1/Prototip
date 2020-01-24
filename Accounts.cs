@@ -10,6 +10,7 @@ namespace Prototip_projet2
         private int _accountId;
         private double _amount;
         private static int idCounter = 1;
+       
 
         public Accounts(Clients client)
         {
@@ -30,5 +31,6 @@ namespace Prototip_projet2
         {
             return _accountId;
         }
+
     }
 }

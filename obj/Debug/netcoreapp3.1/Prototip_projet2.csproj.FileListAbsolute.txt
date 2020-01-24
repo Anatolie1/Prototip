@@ -1,0 +1,11 @@
+E:\Prototip_projet2\bin\Debug\netcoreapp3.1\Prototip_projet2.exe
+E:\Prototip_projet2\bin\Debug\netcoreapp3.1\Prototip_projet2.deps.json
+E:\Prototip_projet2\bin\Debug\netcoreapp3.1\Prototip_projet2.runtimeconfig.json
+E:\Prototip_projet2\bin\Debug\netcoreapp3.1\Prototip_projet2.runtimeconfig.dev.json
+E:\Prototip_projet2\bin\Debug\netcoreapp3.1\Prototip_projet2.dll
+E:\Prototip_projet2\bin\Debug\netcoreapp3.1\Prototip_projet2.pdb
+E:\Prototip_projet2\obj\Debug\netcoreapp3.1\Prototip_projet2.csprojAssemblyReference.cache
+E:\Prototip_projet2\obj\Debug\netcoreapp3.1\Prototip_projet2.AssemblyInfoInputs.cache
+E:\Prototip_projet2\obj\Debug\netcoreapp3.1\Prototip_projet2.AssemblyInfo.cs
+E:\Prototip_projet2\obj\Debug\netcoreapp3.1\Prototip_projet2.dll
+E:\Prototip_projet2\obj\Debug\netcoreapp3.1\Prototip_projet2.pdb

@@ -31,9 +31,32 @@ namespace Prototip_projet2
         {
             _password = password;
         }
-        public void CreateAccount()
+        public Accounts CreateAccount()
         {
             Accounts accounts = new Accounts(this);
+            return accounts;
+        }
+
+        public static void EnterClientAccount(string name)
+        {
+            Console.WriteLine("{0}, welcome on your personal account", name);
+            Console.WriteLine("What operation do you want to do ?");
+            string option = Console.ReadLine();
+            Operation(option);
+        }
+
+        public static void Operation(string operation)
+        {
+            if (operation == "TransferMoney")
+            {
+                Console.Write("Enter account id: ");
+                int accountId =  Convert.ToInt32(Console.ReadLine());
+                
+
+                Console.Write("Enter credit account: ");
+
+                Console.Write("Enter the amount to transfer: ");
+            }
         }
     }
 }
