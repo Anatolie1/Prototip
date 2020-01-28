@@ -6,8 +6,6 @@ namespace Prototip_projet2
 {
     static class Transaction
     {
-        private static double _amount;
-        private static int _accountId;
 
         public static void Withdraw(Accounts accounts, double amount)
         {
