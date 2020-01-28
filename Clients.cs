@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Prototip_projet2
 {
-    class Clients
+    public class Clients
     {
         private string _name;
         private int _password;

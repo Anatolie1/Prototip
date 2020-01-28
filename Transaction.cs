@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Prototip_projet2
 {
-    static class Transaction
+   public static class Transaction
     {
 
         public static void Withdraw(Accounts accounts, double amount)
@@ -13,7 +13,6 @@ namespace Prototip_projet2
             double money = accounts.GetAmount() - amount;
             accounts.SetAmount(money);
             Console.WriteLine("there are : " + accounts.GetAmount() + " of money left");
-
         }
 
         public static void MoneyTransfer(Accounts DebitAccount, Accounts CreditAccount, double amount)
